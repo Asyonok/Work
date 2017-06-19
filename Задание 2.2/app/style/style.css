@@ -1,0 +1,28 @@
+
+.hidden{
+    display: none;
+}
+.content {
+    margin-top: 25px;
+    text-align: left;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: #fdf595;
+    font-family: "Droid Sans", monospace;
+    font-size: large;
+}
+
+.top15{
+    margin-top: 15px;
+}
+
+.left25{
+    margin-left: 25px;
+}
+
+.enter
+{
+    margin-bottom: 15px ;
+    margin-top: 15px;
+    margin-right: 125px;
+}
