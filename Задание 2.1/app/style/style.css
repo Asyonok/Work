@@ -1,0 +1,30 @@
+
+.hidden{
+    display: none;
+}
+.content {
+    margin-top: 25px;
+    text-align: left;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: #a2fdd2;
+    font-family: "Droid Sans";
+    font-size: medium;
+}
+.ps{
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+}
+
+.top15{
+    margin-top: 15px;
+}
+
+.left25{
+    margin-left: 25px;
+}
+
+.bottom15{
+    margin-bottom: 15px ;
+}
